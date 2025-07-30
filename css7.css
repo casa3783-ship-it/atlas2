@@ -1,0 +1,23 @@
+h1, h2 {
+color: blue;
+}
+p {
+color: black;
+}
+ul {
+border: 2px solid blue;
+}
+ol {
+border: 2px solid blue;
+}
+ver. 2-1-23 (ATLS-CSCI-3510)
+ol, ul {
+padding: 5px 20px;
+border-radius: 4px;
+}
+h1, strong {
+color: blue;
+}
+em {
+color: black;
+}
